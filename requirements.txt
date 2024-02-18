@@ -1,0 +1,8 @@
+selenium
+pandas
+pyarrow
+beautifulsoup4
+requests
+lxml
+html5lib
+tqdm
