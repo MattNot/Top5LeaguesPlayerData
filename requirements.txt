@@ -8,3 +8,4 @@ html5lib
 tqdm
 ipywidgets
 widgetsnbextension
+matplotlib
