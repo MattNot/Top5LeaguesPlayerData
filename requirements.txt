@@ -9,3 +9,7 @@ tqdm
 ipywidgets
 widgetsnbextension
 matplotlib
+pycaret
+scikit-learn
+autoviz
+pandas-profiling

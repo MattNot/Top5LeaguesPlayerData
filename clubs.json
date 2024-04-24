@@ -1,0 +1,396 @@
+{
+    "Serie A": [
+        {
+            "id": "46",
+            "name": "Inter Milan"
+        },
+        {
+            "id": "5",
+            "name": "AC Milan"
+        },
+        {
+            "id": "6195",
+            "name": "SSC Napoli"
+        },
+        {
+            "id": "506",
+            "name": "Juventus FC"
+        },
+        {
+            "id": "800",
+            "name": "Atalanta BC"
+        },
+        {
+            "id": "12",
+            "name": "AS Roma"
+        },
+        {
+            "id": "1025",
+            "name": "Bologna FC 1909"
+        },
+        {
+            "id": "430",
+            "name": "ACF Fiorentina"
+        },
+        {
+            "id": "398",
+            "name": "SS Lazio"
+        },
+        {
+            "id": "416",
+            "name": "Torino FC"
+        },
+        {
+            "id": "6574",
+            "name": "US Sassuolo"
+        },
+        {
+            "id": "252",
+            "name": "Genoa CFC"
+        },
+        {
+            "id": "410",
+            "name": "Udinese Calcio"
+        },
+        {
+            "id": "2919",
+            "name": "AC Monza"
+        },
+        {
+            "id": "8970",
+            "name": "Frosinone Calcio"
+        },
+        {
+            "id": "1005",
+            "name": "US Lecce"
+        },
+        {
+            "id": "380",
+            "name": "US Salernitana 1919"
+        },
+        {
+            "id": "1390",
+            "name": "Cagliari Calcio"
+        },
+        {
+            "id": "749",
+            "name": "FC Empoli"
+        },
+        {
+            "id": "276",
+            "name": "Hellas Verona"
+        }
+    ],
+    "Premier League": [
+        {
+            "id": "281",
+            "name": "Manchester City"
+        },
+        {
+            "id": "11",
+            "name": "Arsenal FC"
+        },
+        {
+            "id": "631",
+            "name": "Chelsea FC"
+        },
+        {
+            "id": "31",
+            "name": "Liverpool FC"
+        },
+        {
+            "id": "148",
+            "name": "Tottenham Hotspur"
+        },
+        {
+            "id": "985",
+            "name": "Manchester United"
+        },
+        {
+            "id": "405",
+            "name": "Aston Villa"
+        },
+        {
+            "id": "762",
+            "name": "Newcastle United"
+        },
+        {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        },
+        {
+            "id": "379",
+            "name": "West Ham United"
+        },
+        {
+            "id": "1148",
+            "name": "Brentford FC"
+        },
+        {
+            "id": "873",
+            "name": "Crystal Palace"
+        },
+        {
+            "id": "703",
+            "name": "Nottingham Forest"
+        },
+        {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        },
+        {
+            "id": "29",
+            "name": "Everton FC"
+        },
+        {
+            "id": "543",
+            "name": "Wolverhampton Wanderers"
+        },
+        {
+            "id": "931",
+            "name": "Fulham FC"
+        },
+        {
+            "id": "1132",
+            "name": "Burnley FC"
+        },
+        {
+            "id": "350",
+            "name": "Sheffield United"
+        },
+        {
+            "id": "1031",
+            "name": "Luton Town"
+        }
+    ],
+    "LaLiga": [
+        {
+            "id": "418",
+            "name": "Real Madrid"
+        },
+        {
+            "id": "131",
+            "name": "FC Barcelona"
+        },
+        {
+            "id": "681",
+            "name": "Real Sociedad"
+        },
+        {
+            "id": "13",
+            "name": "Atl\u00e9tico de Madrid"
+        },
+        {
+            "id": "621",
+            "name": "Athletic Bilbao"
+        },
+        {
+            "id": "12321",
+            "name": "Girona FC"
+        },
+        {
+            "id": "1049",
+            "name": "Valencia CF"
+        },
+        {
+            "id": "1050",
+            "name": "Villarreal CF"
+        },
+        {
+            "id": "368",
+            "name": "Sevilla FC"
+        },
+        {
+            "id": "150",
+            "name": "Real Betis Balompi\u00e9"
+        },
+        {
+            "id": "940",
+            "name": "Celta de Vigo"
+        },
+        {
+            "id": "331",
+            "name": "CA Osasuna"
+        },
+        {
+            "id": "1108",
+            "name": "Deportivo Alav\u00e9s"
+        },
+        {
+            "id": "472",
+            "name": "UD Las Palmas"
+        },
+        {
+            "id": "3709",
+            "name": "Getafe CF"
+        },
+        {
+            "id": "16795",
+            "name": "Granada CF"
+        },
+        {
+            "id": "237",
+            "name": "RCD Mallorca"
+        },
+        {
+            "id": "3302",
+            "name": "UD Almer\u00eda"
+        },
+        {
+            "id": "367",
+            "name": "Rayo Vallecano"
+        },
+        {
+            "id": "2687",
+            "name": "C\u00e1diz CF"
+        }
+    ],
+    "Ligue 1": [
+        {
+            "id": "583",
+            "name": "Paris Saint-Germain"
+        },
+        {
+            "id": "162",
+            "name": "AS Monaco"
+        },
+        {
+            "id": "273",
+            "name": "Stade Rennais FC"
+        },
+        {
+            "id": "417",
+            "name": "OGC Nice"
+        },
+        {
+            "id": "1082",
+            "name": "LOSC Lille"
+        },
+        {
+            "id": "1041",
+            "name": "Olympique Lyon"
+        },
+        {
+            "id": "244",
+            "name": "Olympique Marseille"
+        },
+        {
+            "id": "826",
+            "name": "RC Lens"
+        },
+        {
+            "id": "667",
+            "name": "RC Strasbourg Alsace"
+        },
+        {
+            "id": "1421",
+            "name": "Stade Reims"
+        },
+        {
+            "id": "1158",
+            "name": "FC Lorient"
+        },
+        {
+            "id": "415",
+            "name": "FC Toulouse"
+        },
+        {
+            "id": "3911",
+            "name": "Stade Brestois 29"
+        },
+        {
+            "id": "969",
+            "name": "Montpellier HSC"
+        },
+        {
+            "id": "995",
+            "name": "FC Nantes"
+        },
+        {
+            "id": "738",
+            "name": "Le Havre AC"
+        },
+        {
+            "id": "3524",
+            "name": "Clermont Foot 63"
+        },
+        {
+            "id": "347",
+            "name": "FC Metz"
+        }
+    ],
+    "Bundesliga": [
+        {
+            "id": "27",
+            "name": "Bayern Munich"
+        },
+        {
+            "id": "15",
+            "name": "Bayer 04 Leverkusen"
+        },
+        {
+            "id": "23826",
+            "name": "RB Leipzig"
+        },
+        {
+            "id": "16",
+            "name": "Borussia Dortmund"
+        },
+        {
+            "id": "79",
+            "name": "VfB Stuttgart"
+        },
+        {
+            "id": "24",
+            "name": "Eintracht Frankfurt"
+        },
+        {
+            "id": "82",
+            "name": "VfL Wolfsburg"
+        },
+        {
+            "id": "60",
+            "name": "SC Freiburg"
+        },
+        {
+            "id": "18",
+            "name": "Borussia M\u00f6nchengladbach"
+        },
+        {
+            "id": "89",
+            "name": "1.FC Union Berlin"
+        },
+        {
+            "id": "533",
+            "name": "TSG 1899 Hoffenheim"
+        },
+        {
+            "id": "167",
+            "name": "FC Augsburg"
+        },
+        {
+            "id": "39",
+            "name": "1.FSV Mainz 05"
+        },
+        {
+            "id": "86",
+            "name": "SV Werder Bremen"
+        },
+        {
+            "id": "3",
+            "name": "1.FC K\u00f6ln"
+        },
+        {
+            "id": "80",
+            "name": "VfL Bochum"
+        },
+        {
+            "id": "2036",
+            "name": "1.FC Heidenheim 1846"
+        },
+        {
+            "id": "105",
+            "name": "SV Darmstadt 98"
+        }
+    ]
+}

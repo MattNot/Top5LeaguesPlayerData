@@ -1,0 +1,4994 @@
+{
+    "Emil Audero": [
+        {
+            "age": "16",
+            "date": "Oct 25, 2013",
+            "clubName": "Juventus Primavera",
+            "value": 100000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "17",
+            "date": "Jun 24, 2014",
+            "clubName": "Juventus Primavera",
+            "value": 100000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "18",
+            "date": "Jun 17, 2015",
+            "clubName": "Juventus Primavera",
+            "value": 175000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "18",
+            "date": "Jan 4, 2016",
+            "clubName": "Juventus FC",
+            "value": 200000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "19",
+            "date": "Jul 15, 2016",
+            "clubName": "Juventus FC",
+            "value": 300000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "19",
+            "date": "Jan 2, 2017",
+            "clubName": "Juventus FC",
+            "value": 300000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "20",
+            "date": "Jun 8, 2017",
+            "clubName": "Juventus FC",
+            "value": 500000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "20",
+            "date": "Dec 21, 2017",
+            "clubName": "Venezia FC",
+            "value": 1300000.0,
+            "clubID": "607"
+        },
+        {
+            "age": "21",
+            "date": "Jun 18, 2018",
+            "clubName": "Venezia FC",
+            "value": 3000000.0,
+            "clubID": "607"
+        },
+        {
+            "age": "21",
+            "date": "Oct 12, 2018",
+            "clubName": "UC Sampdoria",
+            "value": 5000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "21",
+            "date": "Dec 20, 2018",
+            "clubName": "UC Sampdoria",
+            "value": 8000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "22",
+            "date": "Mar 1, 2019",
+            "clubName": "UC Sampdoria",
+            "value": 15000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "22",
+            "date": "Jun 6, 2019",
+            "clubName": "UC Sampdoria",
+            "value": 15000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "22",
+            "date": "Dec 12, 2019",
+            "clubName": "UC Sampdoria",
+            "value": 15000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "23",
+            "date": "Apr 8, 2020",
+            "clubName": "UC Sampdoria",
+            "value": 12000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "23",
+            "date": "Aug 25, 2020",
+            "clubName": "UC Sampdoria",
+            "value": 10000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "23",
+            "date": "Dec 29, 2020",
+            "clubName": "UC Sampdoria",
+            "value": 10000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "24",
+            "date": "Jun 3, 2021",
+            "clubName": "UC Sampdoria",
+            "value": 14000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "24",
+            "date": "Dec 28, 2021",
+            "clubName": "UC Sampdoria",
+            "value": 12000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "25",
+            "date": "Mar 15, 2022",
+            "clubName": "UC Sampdoria",
+            "value": 7000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "25",
+            "date": "Jun 7, 2022",
+            "clubName": "UC Sampdoria",
+            "value": 6000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "25",
+            "date": "Nov 11, 2022",
+            "clubName": "UC Sampdoria",
+            "value": 6000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "26",
+            "date": "Jun 15, 2023",
+            "clubName": "UC Sampdoria",
+            "value": 6000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "26",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 6000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Yann Sommer": [
+        {
+            "age": "17",
+            "date": "Jul 22, 2006",
+            "clubName": "FC Basel 1893",
+            "value": 50000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "17",
+            "date": "Oct 16, 2006",
+            "clubName": "FC Basel 1893",
+            "value": 100000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "19",
+            "date": "Mar 23, 2008",
+            "clubName": "FC Vaduz",
+            "value": 200000.0,
+            "clubID": "163"
+        },
+        {
+            "age": "19",
+            "date": "Jul 7, 2008",
+            "clubName": "FC Vaduz",
+            "value": 350000.0,
+            "clubID": "163"
+        },
+        {
+            "age": "19",
+            "date": "Oct 15, 2008",
+            "clubName": "FC Vaduz",
+            "value": 500000.0,
+            "clubID": "163"
+        },
+        {
+            "age": "20",
+            "date": "Jun 27, 2009",
+            "clubName": "FC Basel 1893",
+            "value": 700000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "20",
+            "date": "Nov 29, 2009",
+            "clubName": "Grasshopper Club Zurich",
+            "value": 900000.0,
+            "clubID": "504"
+        },
+        {
+            "age": "21",
+            "date": "Feb 2, 2010",
+            "clubName": "Grasshopper Club Zurich",
+            "value": 1100000.0,
+            "clubID": "504"
+        },
+        {
+            "age": "21",
+            "date": "Apr 23, 2010",
+            "clubName": "Grasshopper Club Zurich",
+            "value": 1500000.0,
+            "clubID": "504"
+        },
+        {
+            "age": "22",
+            "date": "Jun 15, 2011",
+            "clubName": "FC Basel 1893",
+            "value": 1500000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "22",
+            "date": "Dec 15, 2011",
+            "clubName": "FC Basel 1893",
+            "value": 2500000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "23",
+            "date": "Mar 23, 2012",
+            "clubName": "FC Basel 1893",
+            "value": 3500000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "23",
+            "date": "May 30, 2012",
+            "clubName": "FC Basel 1893",
+            "value": 4500000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "23",
+            "date": "Aug 10, 2012",
+            "clubName": "FC Basel 1893",
+            "value": 5500000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "23",
+            "date": "Oct 29, 2012",
+            "clubName": "FC Basel 1893",
+            "value": 5000000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "24",
+            "date": "Apr 14, 2013",
+            "clubName": "FC Basel 1893",
+            "value": 6000000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "24",
+            "date": "Jun 17, 2013",
+            "clubName": "FC Basel 1893",
+            "value": 8000000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "25",
+            "date": "Feb 14, 2014",
+            "clubName": "FC Basel 1893",
+            "value": 8000000.0,
+            "clubID": "26"
+        },
+        {
+            "age": "25",
+            "date": "Jul 10, 2014",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 8000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "25",
+            "date": "Aug 21, 2014",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 10000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "26",
+            "date": "Feb 4, 2015",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 10000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "26",
+            "date": "Jul 1, 2015",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 12000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "27",
+            "date": "Feb 15, 2016",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 10000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "27",
+            "date": "Jun 1, 2016",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 10000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "27",
+            "date": "Jul 22, 2016",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 10000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "28",
+            "date": "Feb 7, 2017",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 9000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "28",
+            "date": "Jun 19, 2017",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 9000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "29",
+            "date": "Dec 28, 2017",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 8000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "29",
+            "date": "Jun 5, 2018",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 8000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "29",
+            "date": "Jul 16, 2018",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 10000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "29",
+            "date": "Oct 22, 2018",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 13000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "30",
+            "date": "Dec 18, 2018",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 13000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "30",
+            "date": "Jun 5, 2019",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 12000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "31",
+            "date": "Dec 17, 2019",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 12000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "31",
+            "date": "Apr 8, 2020",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 9500000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "32",
+            "date": "Feb 10, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 7000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "32",
+            "date": "May 25, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 6000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "33",
+            "date": "Dec 22, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 5000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "33",
+            "date": "Jun 9, 2022",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 5000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "33",
+            "date": "Nov 9, 2022",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 5000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "34",
+            "date": "Jun 22, 2023",
+            "clubName": "Bayern Munich",
+            "value": 5000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "35",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 5000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Raffaele Di Gennaro": [
+        {
+            "age": "17",
+            "date": "Nov 16, 2010",
+            "clubName": "Inter Milan Primavera",
+            "value": 50000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "18",
+            "date": "Mar 6, 2012",
+            "clubName": "Inter Milan Primavera",
+            "value": 100000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "18",
+            "date": "Jun 12, 2012",
+            "clubName": "Inter Milan Primavera",
+            "value": 300000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "19",
+            "date": "Jan 15, 2013",
+            "clubName": "Inter Milan Primavera",
+            "value": 300000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "19",
+            "date": "May 16, 2013",
+            "clubName": "Inter Milan Primavera",
+            "value": 300000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "20",
+            "date": "Jan 29, 2014",
+            "clubName": "AS Cittadella",
+            "value": 1500000.0,
+            "clubID": "4084"
+        },
+        {
+            "age": "20",
+            "date": "Jul 15, 2014",
+            "clubName": "US Latina Calcio",
+            "value": 3500000.0,
+            "clubID": "22045"
+        },
+        {
+            "age": "21",
+            "date": "Feb 10, 2015",
+            "clubName": "US Latina Calcio",
+            "value": 3300000.0,
+            "clubID": "22045"
+        },
+        {
+            "age": "21",
+            "date": "Jun 29, 2015",
+            "clubName": "US Latina Calcio",
+            "value": 3500000.0,
+            "clubID": "22045"
+        },
+        {
+            "age": "22",
+            "date": "Dec 28, 2015",
+            "clubName": "US Latina Calcio",
+            "value": 3500000.0,
+            "clubID": "22045"
+        },
+        {
+            "age": "22",
+            "date": "Jun 13, 2016",
+            "clubName": "US Latina Calcio",
+            "value": 3000000.0,
+            "clubID": "22045"
+        },
+        {
+            "age": "23",
+            "date": "Dec 19, 2016",
+            "clubName": "Ternana Calcio",
+            "value": 2600000.0,
+            "clubID": "1103"
+        },
+        {
+            "age": "23",
+            "date": "Jun 9, 2017",
+            "clubName": "Ternana Calcio",
+            "value": 1800000.0,
+            "clubID": "1103"
+        },
+        {
+            "age": "24",
+            "date": "Dec 21, 2017",
+            "clubName": "Spezia Calcio",
+            "value": 1500000.0,
+            "clubID": "3522"
+        },
+        {
+            "age": "24",
+            "date": "Jun 18, 2018",
+            "clubName": "Spezia Calcio",
+            "value": 1200000.0,
+            "clubID": "3522"
+        },
+        {
+            "age": "25",
+            "date": "Dec 20, 2018",
+            "clubName": "Inter Milan",
+            "value": 1000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Jun 6, 2019",
+            "clubName": "Inter Milan",
+            "value": 900000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Dec 20, 2019",
+            "clubName": "US Catanzaro",
+            "value": 600000.0,
+            "clubID": "4097"
+        },
+        {
+            "age": "26",
+            "date": "Apr 8, 2020",
+            "clubName": "US Catanzaro",
+            "value": 475000.0,
+            "clubID": "4097"
+        },
+        {
+            "age": "26",
+            "date": "Jul 24, 2020",
+            "clubName": "US Catanzaro",
+            "value": 450000.0,
+            "clubID": "4097"
+        },
+        {
+            "age": "27",
+            "date": "Jan 13, 2021",
+            "clubName": "US Catanzaro",
+            "value": 350000.0,
+            "clubID": "4097"
+        },
+        {
+            "age": "27",
+            "date": "Jun 23, 2021",
+            "clubName": "US Catanzaro",
+            "value": 375000.0,
+            "clubID": "4097"
+        },
+        {
+            "age": "28",
+            "date": "Dec 21, 2021",
+            "clubName": "Delfino Pescara 1936",
+            "value": 350000.0,
+            "clubID": "2921"
+        },
+        {
+            "age": "28",
+            "date": "Jun 21, 2022",
+            "clubName": "Delfino Pescara 1936",
+            "value": 300000.0,
+            "clubID": "2921"
+        },
+        {
+            "age": "29",
+            "date": "Dec 20, 2022",
+            "clubName": "AS Gubbio 1910",
+            "value": 400000.0,
+            "clubID": "4326"
+        },
+        {
+            "age": "29",
+            "date": "Jun 20, 2023",
+            "clubName": "AS Gubbio 1910",
+            "value": 350000.0,
+            "clubID": "4326"
+        },
+        {
+            "age": "30",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 350000.0,
+            "clubID": "46"
+        }
+    ],
+    "Alessandro Bastoni": [
+        {
+            "age": "17",
+            "date": "Oct 17, 2016",
+            "clubName": "Atalanta Primavera",
+            "value": 75000.0,
+            "clubID": "11998"
+        },
+        {
+            "age": "17",
+            "date": "Mar 28, 2017",
+            "clubName": "Atalanta BC",
+            "value": 800000.0,
+            "clubID": "800"
+        },
+        {
+            "age": "18",
+            "date": "Jun 8, 2017",
+            "clubName": "Atalanta BC",
+            "value": 1500000.0,
+            "clubID": "800"
+        },
+        {
+            "age": "18",
+            "date": "Oct 13, 2017",
+            "clubName": "Atalanta BC",
+            "value": 2500000.0,
+            "clubID": "800"
+        },
+        {
+            "age": "18",
+            "date": "Dec 29, 2017",
+            "clubName": "Atalanta BC",
+            "value": 2500000.0,
+            "clubID": "800"
+        },
+        {
+            "age": "19",
+            "date": "Jun 7, 2018",
+            "clubName": "Atalanta BC",
+            "value": 2500000.0,
+            "clubID": "800"
+        },
+        {
+            "age": "19",
+            "date": "Dec 20, 2018",
+            "clubName": "Parma Calcio 1913",
+            "value": 7500000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "19",
+            "date": "Mar 1, 2019",
+            "clubName": "Parma Calcio 1913",
+            "value": 15000000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "20",
+            "date": "Jun 6, 2019",
+            "clubName": "Parma Calcio 1913",
+            "value": 15000000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "20",
+            "date": "Dec 12, 2019",
+            "clubName": "Inter Milan",
+            "value": 23000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "20",
+            "date": "Mar 3, 2020",
+            "clubName": "Inter Milan",
+            "value": 35000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "20",
+            "date": "Apr 8, 2020",
+            "clubName": "Inter Milan",
+            "value": 31500000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "21",
+            "date": "Aug 25, 2020",
+            "clubName": "Inter Milan",
+            "value": 45000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "21",
+            "date": "Dec 29, 2020",
+            "clubName": "Inter Milan",
+            "value": 50000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "21",
+            "date": "Mar 23, 2021",
+            "clubName": "Inter Milan",
+            "value": 55000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "22",
+            "date": "May 25, 2021",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "22",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 55000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 70000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Benjamin Pavard": [
+        {
+            "age": "19",
+            "date": "Jul 2, 2015",
+            "clubName": "LOSC Lille",
+            "value": 250000.0,
+            "clubID": "1082"
+        },
+        {
+            "age": "19",
+            "date": "Sep 6, 2015",
+            "clubName": "LOSC Lille",
+            "value": 500000.0,
+            "clubID": "1082"
+        },
+        {
+            "age": "19",
+            "date": "Feb 4, 2016",
+            "clubName": "LOSC Lille",
+            "value": 800000.0,
+            "clubID": "1082"
+        },
+        {
+            "age": "20",
+            "date": "Jul 13, 2016",
+            "clubName": "LOSC Lille",
+            "value": 800000.0,
+            "clubID": "1082"
+        },
+        {
+            "age": "20",
+            "date": "Oct 6, 2016",
+            "clubName": "VfB Stuttgart",
+            "value": 3000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "20",
+            "date": "Jan 23, 2017",
+            "clubName": "VfB Stuttgart",
+            "value": 3000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "21",
+            "date": "Jun 27, 2017",
+            "clubName": "VfB Stuttgart",
+            "value": 3500000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "21",
+            "date": "Oct 18, 2017",
+            "clubName": "VfB Stuttgart",
+            "value": 5000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "21",
+            "date": "Dec 28, 2017",
+            "clubName": "VfB Stuttgart",
+            "value": 12000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "22",
+            "date": "Apr 4, 2018",
+            "clubName": "VfB Stuttgart",
+            "value": 25000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "22",
+            "date": "Jun 5, 2018",
+            "clubName": "VfB Stuttgart",
+            "value": 30000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "22",
+            "date": "Jul 16, 2018",
+            "clubName": "VfB Stuttgart",
+            "value": 40000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "22",
+            "date": "Dec 18, 2018",
+            "clubName": "VfB Stuttgart",
+            "value": 35000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "23",
+            "date": "Jun 5, 2019",
+            "clubName": "VfB Stuttgart",
+            "value": 30000000.0,
+            "clubID": "79"
+        },
+        {
+            "age": "23",
+            "date": "Oct 2, 2019",
+            "clubName": "Bayern Munich",
+            "value": 35000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "23",
+            "date": "Dec 17, 2019",
+            "clubName": "Bayern Munich",
+            "value": 35000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "24",
+            "date": "Apr 8, 2020",
+            "clubName": "Bayern Munich",
+            "value": 28000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "24",
+            "date": "Jul 8, 2020",
+            "clubName": "Bayern Munich",
+            "value": 40000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "24",
+            "date": "Sep 16, 2020",
+            "clubName": "Bayern Munich",
+            "value": 45000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "24",
+            "date": "Feb 10, 2021",
+            "clubName": "Bayern Munich",
+            "value": 35000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "25",
+            "date": "Jun 1, 2021",
+            "clubName": "Bayern Munich",
+            "value": 35000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "25",
+            "date": "Dec 22, 2021",
+            "clubName": "Bayern Munich",
+            "value": 30000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "26",
+            "date": "Jun 9, 2022",
+            "clubName": "Bayern Munich",
+            "value": 30000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "26",
+            "date": "Nov 9, 2022",
+            "clubName": "Bayern Munich",
+            "value": 35000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "27",
+            "date": "Jun 22, 2023",
+            "clubName": "Bayern Munich",
+            "value": 40000000.0,
+            "clubID": "27"
+        },
+        {
+            "age": "27",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 40000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "27",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 50000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Yann Bisseck": [
+        {
+            "age": "17",
+            "date": "Dec 28, 2017",
+            "clubName": "1.FC K\u00f6ln U19",
+            "value": 250000.0,
+            "clubID": "1461"
+        },
+        {
+            "age": "17",
+            "date": "Jun 5, 2018",
+            "clubName": "1.FC K\u00f6ln U19",
+            "value": 250000.0,
+            "clubID": "1461"
+        },
+        {
+            "age": "18",
+            "date": "Jan 8, 2019",
+            "clubName": "1.FC K\u00f6ln",
+            "value": 250000.0,
+            "clubID": "3"
+        },
+        {
+            "age": "18",
+            "date": "Jun 12, 2019",
+            "clubName": "Holstein Kiel",
+            "value": 250000.0,
+            "clubID": "269"
+        },
+        {
+            "age": "19",
+            "date": "Jan 17, 2020",
+            "clubName": "Roda JC Kerkrade",
+            "value": 350000.0,
+            "clubID": "192"
+        },
+        {
+            "age": "19",
+            "date": "Apr 8, 2020",
+            "clubName": "Roda JC Kerkrade",
+            "value": 325000.0,
+            "clubID": "192"
+        },
+        {
+            "age": "19",
+            "date": "Jun 29, 2020",
+            "clubName": "Roda JC Kerkrade",
+            "value": 325000.0,
+            "clubID": "192"
+        },
+        {
+            "age": "20",
+            "date": "Jan 28, 2021",
+            "clubName": "Vit\u00f3ria Guimar\u00e3es SC B",
+            "value": 325000.0,
+            "clubID": "15136"
+        },
+        {
+            "age": "20",
+            "date": "Aug 1, 2021",
+            "clubName": "Aarhus GF",
+            "value": 350000.0,
+            "clubID": "678"
+        },
+        {
+            "age": "20",
+            "date": "Oct 6, 2021",
+            "clubName": "Aarhus GF",
+            "value": 700000.0,
+            "clubID": "678"
+        },
+        {
+            "age": "21",
+            "date": "Dec 28, 2021",
+            "clubName": "Aarhus GF",
+            "value": 1000000.0,
+            "clubID": "678"
+        },
+        {
+            "age": "21",
+            "date": "Jun 20, 2022",
+            "clubName": "Aarhus GF",
+            "value": 1000000.0,
+            "clubID": "678"
+        },
+        {
+            "age": "22",
+            "date": "Dec 22, 2022",
+            "clubName": "Aarhus GF",
+            "value": 1500000.0,
+            "clubID": "678"
+        },
+        {
+            "age": "22",
+            "date": "Jun 26, 2023",
+            "clubName": "Aarhus GF",
+            "value": 5000000.0,
+            "clubID": "678"
+        },
+        {
+            "age": "22",
+            "date": "Oct 11, 2023",
+            "clubName": "Inter Milan",
+            "value": 7000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 9000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 15000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Stefan de Vrij": [
+        {
+            "age": "17",
+            "date": "Oct 2, 2009",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 50000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "17",
+            "date": "Jan 7, 2010",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 100000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "18",
+            "date": "Aug 4, 2010",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 650000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "18",
+            "date": "Jan 17, 2011",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 1000000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "19",
+            "date": "Jun 22, 2011",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 2500000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "19",
+            "date": "Jan 10, 2012",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 3000000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "20",
+            "date": "Jun 30, 2012",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 4000000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "20",
+            "date": "Jan 9, 2013",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 5000000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "21",
+            "date": "May 28, 2013",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 6000000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "22",
+            "date": "Feb 11, 2014",
+            "clubName": "Feyenoord Rotterdam",
+            "value": 6000000.0,
+            "clubID": "234"
+        },
+        {
+            "age": "22",
+            "date": "Aug 12, 2014",
+            "clubName": "SS Lazio",
+            "value": 10000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "22",
+            "date": "Jan 7, 2015",
+            "clubName": "SS Lazio",
+            "value": 12500000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "23",
+            "date": "Jul 1, 2015",
+            "clubName": "SS Lazio",
+            "value": 17000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "23",
+            "date": "Jan 4, 2016",
+            "clubName": "SS Lazio",
+            "value": 17000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "24",
+            "date": "Jul 15, 2016",
+            "clubName": "SS Lazio",
+            "value": 16000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "24",
+            "date": "Oct 14, 2016",
+            "clubName": "SS Lazio",
+            "value": 20000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "24",
+            "date": "Jan 2, 2017",
+            "clubName": "SS Lazio",
+            "value": 20000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "25",
+            "date": "Jun 8, 2017",
+            "clubName": "SS Lazio",
+            "value": 27000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "25",
+            "date": "Dec 29, 2017",
+            "clubName": "SS Lazio",
+            "value": 35000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "26",
+            "date": "Mar 24, 2018",
+            "clubName": "SS Lazio",
+            "value": 40000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "26",
+            "date": "Jun 7, 2018",
+            "clubName": "SS Lazio",
+            "value": 40000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "26",
+            "date": "Dec 20, 2018",
+            "clubName": "Inter Milan",
+            "value": 45000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "27",
+            "date": "Jun 6, 2019",
+            "clubName": "Inter Milan",
+            "value": 50000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "27",
+            "date": "Dec 12, 2019",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "28",
+            "date": "Apr 8, 2020",
+            "clubName": "Inter Milan",
+            "value": 48000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "28",
+            "date": "Aug 25, 2020",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "28",
+            "date": "Dec 29, 2020",
+            "clubName": "Inter Milan",
+            "value": 55000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "29",
+            "date": "May 27, 2021",
+            "clubName": "Inter Milan",
+            "value": 50000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "29",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 45000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "30",
+            "date": "Mar 15, 2022",
+            "clubName": "Inter Milan",
+            "value": 35000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "30",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 28000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "30",
+            "date": "Sep 27, 2022",
+            "clubName": "Inter Milan",
+            "value": 20000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "30",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 15000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "31",
+            "date": "Mar 21, 2023",
+            "clubName": "Inter Milan",
+            "value": 10000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "31",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 8000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "31",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 8000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Francesco Acerbi": [
+        {
+            "age": "22",
+            "date": "Oct 8, 2010",
+            "clubName": "Reggina Calcio",
+            "value": 300000.0,
+            "clubID": "1386"
+        },
+        {
+            "age": "22",
+            "date": "Feb 1, 2011",
+            "clubName": "Reggina Calcio",
+            "value": 3000000.0,
+            "clubID": "1386"
+        },
+        {
+            "age": "23",
+            "date": "Jun 20, 2011",
+            "clubName": "Genoa CFC",
+            "value": 3200000.0,
+            "clubID": "252"
+        },
+        {
+            "age": "23",
+            "date": "Jan 10, 2012",
+            "clubName": "Chievo Verona",
+            "value": 2700000.0,
+            "clubID": "862"
+        },
+        {
+            "age": "24",
+            "date": "Jun 7, 2012",
+            "clubName": "Chievo Verona",
+            "value": 4500000.0,
+            "clubID": "862"
+        },
+        {
+            "age": "24",
+            "date": "Jan 15, 2013",
+            "clubName": "AC Milan",
+            "value": 4000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "25",
+            "date": "Jun 19, 2013",
+            "clubName": "Chievo Verona",
+            "value": 3500000.0,
+            "clubID": "862"
+        },
+        {
+            "age": "25",
+            "date": "Jan 7, 2014",
+            "clubName": "US Sassuolo",
+            "value": 3500000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "26",
+            "date": "Mar 10, 2014",
+            "clubName": "US Sassuolo",
+            "value": 2500000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "26",
+            "date": "Jul 1, 2014",
+            "clubName": "US Sassuolo",
+            "value": 1000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "26",
+            "date": "Jan 7, 2015",
+            "clubName": "US Sassuolo",
+            "value": 3000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "27",
+            "date": "Jul 1, 2015",
+            "clubName": "US Sassuolo",
+            "value": 3500000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "27",
+            "date": "Nov 5, 2015",
+            "clubName": "US Sassuolo",
+            "value": 4800000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "27",
+            "date": "Jan 4, 2016",
+            "clubName": "US Sassuolo",
+            "value": 6000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "28",
+            "date": "Apr 1, 2016",
+            "clubName": "US Sassuolo",
+            "value": 7500000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "28",
+            "date": "Jul 15, 2016",
+            "clubName": "US Sassuolo",
+            "value": 8500000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "28",
+            "date": "Oct 14, 2016",
+            "clubName": "US Sassuolo",
+            "value": 10000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "28",
+            "date": "Jan 2, 2017",
+            "clubName": "US Sassuolo",
+            "value": 10000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "29",
+            "date": "Jun 8, 2017",
+            "clubName": "US Sassuolo",
+            "value": 12000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "29",
+            "date": "Dec 29, 2017",
+            "clubName": "US Sassuolo",
+            "value": 10000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "30",
+            "date": "Jun 7, 2018",
+            "clubName": "US Sassuolo",
+            "value": 10000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "30",
+            "date": "Dec 20, 2018",
+            "clubName": "SS Lazio",
+            "value": 10000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "31",
+            "date": "Jun 6, 2019",
+            "clubName": "SS Lazio",
+            "value": 12000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "31",
+            "date": "Dec 12, 2019",
+            "clubName": "SS Lazio",
+            "value": 15000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "32",
+            "date": "Apr 8, 2020",
+            "clubName": "SS Lazio",
+            "value": 12000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "32",
+            "date": "Aug 25, 2020",
+            "clubName": "SS Lazio",
+            "value": 13000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "32",
+            "date": "Dec 29, 2020",
+            "clubName": "SS Lazio",
+            "value": 13000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "33",
+            "date": "May 25, 2021",
+            "clubName": "SS Lazio",
+            "value": 10000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "33",
+            "date": "Dec 28, 2021",
+            "clubName": "SS Lazio",
+            "value": 7000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "34",
+            "date": "Mar 15, 2022",
+            "clubName": "SS Lazio",
+            "value": 5000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "34",
+            "date": "Jun 7, 2022",
+            "clubName": "SS Lazio",
+            "value": 4000000.0,
+            "clubID": "398"
+        },
+        {
+            "age": "34",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 4000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "35",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 4000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "35",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 4000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Federico Dimarco": [
+        {
+            "age": "16",
+            "date": "Sep 16, 2014",
+            "clubName": "Inter Milan Primavera",
+            "value": 150000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "17",
+            "date": "Mar 2, 2015",
+            "clubName": "Inter Milan Primavera",
+            "value": 200000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "17",
+            "date": "Jun 17, 2015",
+            "clubName": "Inter Milan Primavera",
+            "value": 300000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "17",
+            "date": "Nov 5, 2015",
+            "clubName": "Inter Milan",
+            "value": 600000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "18",
+            "date": "Jan 4, 2016",
+            "clubName": "Inter Milan",
+            "value": 600000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "18",
+            "date": "Jun 13, 2016",
+            "clubName": "Ascoli Picchio",
+            "value": 1300000.0,
+            "clubID": "408"
+        },
+        {
+            "age": "19",
+            "date": "Jan 2, 2017",
+            "clubName": "FC Empoli",
+            "value": 1500000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "19",
+            "date": "Jun 8, 2017",
+            "clubName": "FC Empoli",
+            "value": 2000000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "20",
+            "date": "Jan 8, 2018",
+            "clubName": "FC Sion",
+            "value": 2000000.0,
+            "clubID": "321"
+        },
+        {
+            "age": "20",
+            "date": "Apr 24, 2018",
+            "clubName": "FC Sion",
+            "value": 2000000.0,
+            "clubID": "321"
+        },
+        {
+            "age": "20",
+            "date": "Oct 12, 2018",
+            "clubName": "Parma Calcio 1913",
+            "value": 3500000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "21",
+            "date": "Dec 20, 2018",
+            "clubName": "Parma Calcio 1913",
+            "value": 3500000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "21",
+            "date": "Jun 6, 2019",
+            "clubName": "Parma Calcio 1913",
+            "value": 5000000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "22",
+            "date": "Dec 12, 2019",
+            "clubName": "Inter Milan",
+            "value": 5000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "22",
+            "date": "Apr 8, 2020",
+            "clubName": "Hellas Verona",
+            "value": 4000000.0,
+            "clubID": "276"
+        },
+        {
+            "age": "22",
+            "date": "Aug 25, 2020",
+            "clubName": "Hellas Verona",
+            "value": 4500000.0,
+            "clubID": "276"
+        },
+        {
+            "age": "23",
+            "date": "Dec 29, 2020",
+            "clubName": "Hellas Verona",
+            "value": 7000000.0,
+            "clubID": "276"
+        },
+        {
+            "age": "23",
+            "date": "Mar 23, 2021",
+            "clubName": "Hellas Verona",
+            "value": 10000000.0,
+            "clubID": "276"
+        },
+        {
+            "age": "23",
+            "date": "Jun 3, 2021",
+            "clubName": "Hellas Verona",
+            "value": 10000000.0,
+            "clubID": "276"
+        },
+        {
+            "age": "23",
+            "date": "Oct 14, 2021",
+            "clubName": "Inter Milan",
+            "value": 13000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 16000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 18000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 25000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 35000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Oct 11, 2023",
+            "clubName": "Inter Milan",
+            "value": 45000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 50000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Matteo Darmian": [
+        {
+            "age": "17",
+            "date": "Aug 3, 2007",
+            "clubName": "AC Milan",
+            "value": 50000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "18",
+            "date": "Jul 4, 2008",
+            "clubName": "AC Milan",
+            "value": 200000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "19",
+            "date": "Feb 6, 2009",
+            "clubName": "AC Milan",
+            "value": 300000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "20",
+            "date": "Feb 9, 2010",
+            "clubName": "Calcio Padova",
+            "value": 500000.0,
+            "clubID": "3037"
+        },
+        {
+            "age": "20",
+            "date": "Jul 19, 2010",
+            "clubName": "US Palermo",
+            "value": 1000000.0,
+            "clubID": "458"
+        },
+        {
+            "age": "21",
+            "date": "Jan 10, 2011",
+            "clubName": "US Palermo",
+            "value": 800000.0,
+            "clubID": "458"
+        },
+        {
+            "age": "21",
+            "date": "Jun 21, 2011",
+            "clubName": "US Palermo",
+            "value": 800000.0,
+            "clubID": "458"
+        },
+        {
+            "age": "22",
+            "date": "Jan 1, 2012",
+            "clubName": "Torino FC",
+            "value": 800000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "22",
+            "date": "Jun 12, 2012",
+            "clubName": "Torino FC",
+            "value": 900000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "23",
+            "date": "Jan 14, 2013",
+            "clubName": "Torino FC",
+            "value": 1500000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "23",
+            "date": "Jun 19, 2013",
+            "clubName": "Torino FC",
+            "value": 2400000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "24",
+            "date": "Jan 7, 2014",
+            "clubName": "Torino FC",
+            "value": 3000000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "24",
+            "date": "Mar 10, 2014",
+            "clubName": "Torino FC",
+            "value": 4500000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "24",
+            "date": "Jul 11, 2014",
+            "clubName": "Torino FC",
+            "value": 8000000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "25",
+            "date": "Jan 7, 2015",
+            "clubName": "Torino FC",
+            "value": 8000000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "25",
+            "date": "Jul 1, 2015",
+            "clubName": "Torino FC",
+            "value": 12000000.0,
+            "clubID": "416"
+        },
+        {
+            "age": "25",
+            "date": "Oct 14, 2015",
+            "clubName": "Manchester United",
+            "value": 15000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "26",
+            "date": "Feb 9, 2016",
+            "clubName": "Manchester United",
+            "value": 15000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "26",
+            "date": "Jun 1, 2016",
+            "clubName": "Manchester United",
+            "value": 15000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "26",
+            "date": "Aug 1, 2016",
+            "clubName": "Manchester United",
+            "value": 15000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "27",
+            "date": "Feb 20, 2017",
+            "clubName": "Manchester United",
+            "value": 12000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "27",
+            "date": "Jun 28, 2017",
+            "clubName": "Manchester United",
+            "value": 12000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "28",
+            "date": "Jan 2, 2018",
+            "clubName": "Manchester United",
+            "value": 12000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "28",
+            "date": "May 28, 2018",
+            "clubName": "Manchester United",
+            "value": 10000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "29",
+            "date": "Dec 19, 2018",
+            "clubName": "Manchester United",
+            "value": 10000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "29",
+            "date": "Jun 13, 2019",
+            "clubName": "Manchester United",
+            "value": 10000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "30",
+            "date": "Dec 12, 2019",
+            "clubName": "Parma Calcio 1913",
+            "value": 8000000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "30",
+            "date": "Apr 8, 2020",
+            "clubName": "Parma Calcio 1913",
+            "value": 6500000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "30",
+            "date": "Aug 25, 2020",
+            "clubName": "Parma Calcio 1913",
+            "value": 6500000.0,
+            "clubID": "130"
+        },
+        {
+            "age": "31",
+            "date": "Dec 29, 2020",
+            "clubName": "Inter Milan",
+            "value": 7000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "31",
+            "date": "Jun 3, 2021",
+            "clubName": "Inter Milan",
+            "value": 7000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "32",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 7000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "32",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 5000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "32",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 4000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "33",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 4000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "34",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 4000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Hakan \u00c7alhano\u011flu": [
+        {
+            "age": "17",
+            "date": "Feb 6, 2012",
+            "clubName": "Karlsruher SC",
+            "value": 150000.0,
+            "clubID": "48"
+        },
+        {
+            "age": "18",
+            "date": "Mar 5, 2012",
+            "clubName": "Karlsruher SC",
+            "value": 300000.0,
+            "clubID": "48"
+        },
+        {
+            "age": "18",
+            "date": "Jun 24, 2012",
+            "clubName": "Karlsruher SC",
+            "value": 1000000.0,
+            "clubID": "48"
+        },
+        {
+            "age": "18",
+            "date": "Aug 26, 2012",
+            "clubName": "Karlsruher SC",
+            "value": 2000000.0,
+            "clubID": "48"
+        },
+        {
+            "age": "18",
+            "date": "Oct 23, 2012",
+            "clubName": "Karlsruher SC",
+            "value": 2500000.0,
+            "clubID": "48"
+        },
+        {
+            "age": "19",
+            "date": "Jun 28, 2013",
+            "clubName": "Karlsruher SC",
+            "value": 3000000.0,
+            "clubID": "48"
+        },
+        {
+            "age": "19",
+            "date": "Nov 5, 2013",
+            "clubName": "Hamburger SV",
+            "value": 4000000.0,
+            "clubID": "41"
+        },
+        {
+            "age": "20",
+            "date": "Feb 12, 2014",
+            "clubName": "Hamburger SV",
+            "value": 7000000.0,
+            "clubID": "41"
+        },
+        {
+            "age": "20",
+            "date": "Jul 10, 2014",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 12000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "20",
+            "date": "Aug 21, 2014",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 15000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "20",
+            "date": "Feb 4, 2015",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 18000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "21",
+            "date": "Jul 1, 2015",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 18000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "22",
+            "date": "Feb 15, 2016",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 18000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "22",
+            "date": "Jun 1, 2016",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 18000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "22",
+            "date": "Jul 22, 2016",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 18000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "22",
+            "date": "Feb 7, 2017",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 20000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "23",
+            "date": "Jun 19, 2017",
+            "clubName": "Bayer 04 Leverkusen",
+            "value": 20000000.0,
+            "clubID": "15"
+        },
+        {
+            "age": "23",
+            "date": "Dec 29, 2017",
+            "clubName": "AC Milan",
+            "value": 17500000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "24",
+            "date": "Mar 24, 2018",
+            "clubName": "AC Milan",
+            "value": 22000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "24",
+            "date": "Jun 7, 2018",
+            "clubName": "AC Milan",
+            "value": 27000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "24",
+            "date": "Dec 20, 2018",
+            "clubName": "AC Milan",
+            "value": 22000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "25",
+            "date": "Jun 6, 2019",
+            "clubName": "AC Milan",
+            "value": 20000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "25",
+            "date": "Oct 8, 2019",
+            "clubName": "AC Milan",
+            "value": 18000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "25",
+            "date": "Dec 12, 2019",
+            "clubName": "AC Milan",
+            "value": 18000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "26",
+            "date": "Apr 8, 2020",
+            "clubName": "AC Milan",
+            "value": 14500000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "26",
+            "date": "Aug 25, 2020",
+            "clubName": "AC Milan",
+            "value": 23000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "26",
+            "date": "Oct 29, 2020",
+            "clubName": "AC Milan",
+            "value": 30000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "26",
+            "date": "Dec 29, 2020",
+            "clubName": "AC Milan",
+            "value": 35000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "27",
+            "date": "May 25, 2021",
+            "clubName": "AC Milan",
+            "value": 35000000.0,
+            "clubID": "5"
+        },
+        {
+            "age": "27",
+            "date": "Oct 14, 2021",
+            "clubName": "Inter Milan",
+            "value": 30000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "27",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 35000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "28",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 35000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "28",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 35000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "29",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 40000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "29",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 40000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Kristjan Asllani": [
+        {
+            "age": "19",
+            "date": "Jun 30, 2021",
+            "clubName": "Empoli Primavera",
+            "value": 200000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "19",
+            "date": "Oct 14, 2021",
+            "clubName": "FC Empoli",
+            "value": 500000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "19",
+            "date": "Dec 28, 2021",
+            "clubName": "FC Empoli",
+            "value": 1500000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "20",
+            "date": "Mar 15, 2022",
+            "clubName": "FC Empoli",
+            "value": 3500000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "20",
+            "date": "Jun 7, 2022",
+            "clubName": "FC Empoli",
+            "value": 10000000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "20",
+            "date": "Sep 27, 2022",
+            "clubName": "Inter Milan",
+            "value": 12000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "20",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 12000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "21",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 12000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "21",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 14000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "22",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 16000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Nicol\u00f2 Barella": [
+        {
+            "age": "16",
+            "date": "Feb 25, 2013",
+            "clubName": "Cagliari Primavera",
+            "value": 50000.0,
+            "clubID": "11676"
+        },
+        {
+            "age": "16",
+            "date": "Apr 29, 2013",
+            "clubName": "Cagliari Primavera",
+            "value": 150000.0,
+            "clubID": "11676"
+        },
+        {
+            "age": "16",
+            "date": "Oct 30, 2013",
+            "clubName": "Cagliari Primavera",
+            "value": 200000.0,
+            "clubID": "11676"
+        },
+        {
+            "age": "17",
+            "date": "May 8, 2014",
+            "clubName": "Cagliari Primavera",
+            "value": 200000.0,
+            "clubID": "11676"
+        },
+        {
+            "age": "17",
+            "date": "Jan 7, 2015",
+            "clubName": "Cagliari Calcio",
+            "value": 500000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "18",
+            "date": "Jun 30, 2015",
+            "clubName": "Cagliari Calcio",
+            "value": 800000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "18",
+            "date": "Dec 28, 2015",
+            "clubName": "Cagliari Calcio",
+            "value": 800000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "19",
+            "date": "Jun 13, 2016",
+            "clubName": "Calcio Como",
+            "value": 1300000.0,
+            "clubID": "1047"
+        },
+        {
+            "age": "19",
+            "date": "Oct 14, 2016",
+            "clubName": "Cagliari Calcio",
+            "value": 1750000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "19",
+            "date": "Jan 2, 2017",
+            "clubName": "Cagliari Calcio",
+            "value": 2500000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "20",
+            "date": "Mar 28, 2017",
+            "clubName": "Cagliari Calcio",
+            "value": 4000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "20",
+            "date": "Jun 8, 2017",
+            "clubName": "Cagliari Calcio",
+            "value": 5000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "20",
+            "date": "Oct 13, 2017",
+            "clubName": "Cagliari Calcio",
+            "value": 8000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "20",
+            "date": "Dec 29, 2017",
+            "clubName": "Cagliari Calcio",
+            "value": 15000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "21",
+            "date": "Mar 24, 2018",
+            "clubName": "Cagliari Calcio",
+            "value": 20000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "21",
+            "date": "Jun 7, 2018",
+            "clubName": "Cagliari Calcio",
+            "value": 25000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "21",
+            "date": "Oct 12, 2018",
+            "clubName": "Cagliari Calcio",
+            "value": 30000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "21",
+            "date": "Dec 20, 2018",
+            "clubName": "Cagliari Calcio",
+            "value": 30000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "22",
+            "date": "Jun 6, 2019",
+            "clubName": "Cagliari Calcio",
+            "value": 36000000.0,
+            "clubID": "1390"
+        },
+        {
+            "age": "22",
+            "date": "Dec 12, 2019",
+            "clubName": "Inter Milan",
+            "value": 45000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Apr 8, 2020",
+            "clubName": "Inter Milan",
+            "value": 36000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Aug 25, 2020",
+            "clubName": "Inter Milan",
+            "value": 50000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Dec 29, 2020",
+            "clubName": "Inter Milan",
+            "value": 55000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Mar 23, 2021",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "May 25, 2021",
+            "clubName": "Inter Milan",
+            "value": 65000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 70000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 70000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 70000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 75000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 75000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Davide Frattesi": [
+        {
+            "age": "17",
+            "date": "Oct 17, 2016",
+            "clubName": "Roma U19",
+            "value": 75000.0,
+            "clubID": "11997"
+        },
+        {
+            "age": "17",
+            "date": "Jun 26, 2017",
+            "clubName": "Roma U19",
+            "value": 200000.0,
+            "clubID": "11997"
+        },
+        {
+            "age": "18",
+            "date": "Oct 13, 2017",
+            "clubName": "US Sassuolo",
+            "value": 800000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "18",
+            "date": "Dec 29, 2017",
+            "clubName": "US Sassuolo",
+            "value": 1000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "18",
+            "date": "Jun 7, 2018",
+            "clubName": "US Sassuolo",
+            "value": 1000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "19",
+            "date": "Jan 17, 2019",
+            "clubName": "Ascoli Calcio",
+            "value": 2000000.0,
+            "clubID": "408"
+        },
+        {
+            "age": "19",
+            "date": "Jun 5, 2019",
+            "clubName": "Ascoli Calcio",
+            "value": 2500000.0,
+            "clubID": "408"
+        },
+        {
+            "age": "20",
+            "date": "Dec 30, 2019",
+            "clubName": "FC Empoli",
+            "value": 4200000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "20",
+            "date": "Apr 8, 2020",
+            "clubName": "FC Empoli",
+            "value": 3700000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "20",
+            "date": "Aug 21, 2020",
+            "clubName": "Empoli FC ",
+            "value": 5000000.0,
+            "clubID": "749"
+        },
+        {
+            "age": "21",
+            "date": "Feb 22, 2021",
+            "clubName": "AC Monza",
+            "value": 7000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "21",
+            "date": "Jun 24, 2021",
+            "clubName": "AC Monza",
+            "value": 8500000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "22",
+            "date": "Dec 28, 2021",
+            "clubName": "US Sassuolo",
+            "value": 15000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "22",
+            "date": "Mar 15, 2022",
+            "clubName": "US Sassuolo",
+            "value": 20000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "22",
+            "date": "Jun 7, 2022",
+            "clubName": "US Sassuolo",
+            "value": 20000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "23",
+            "date": "Nov 11, 2022",
+            "clubName": "US Sassuolo",
+            "value": 22000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "23",
+            "date": "Jun 15, 2023",
+            "clubName": "US Sassuolo",
+            "value": 25000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "24",
+            "date": "Oct 11, 2023",
+            "clubName": "Inter Milan",
+            "value": 30000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 30000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Henrikh Mkhitaryan": [
+        {
+            "age": "20",
+            "date": "Jun 12, 2009",
+            "clubName": "FC Pyunik Yerevan",
+            "value": 600000.0,
+            "clubID": "10301"
+        },
+        {
+            "age": "20",
+            "date": "Sep 21, 2009",
+            "clubName": "Metalurg Donetsk (- 2015)",
+            "value": 1200000.0,
+            "clubID": "2783"
+        },
+        {
+            "age": "21",
+            "date": "Feb 18, 2010",
+            "clubName": "Metalurg Donetsk (- 2015)",
+            "value": 2800000.0,
+            "clubID": "2783"
+        },
+        {
+            "age": "21",
+            "date": "Aug 30, 2010",
+            "clubName": "Shakhtar Donetsk",
+            "value": 4000000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "21",
+            "date": "Jan 2, 2011",
+            "clubName": "Shakhtar Donetsk",
+            "value": 5000000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "22",
+            "date": "Jul 4, 2011",
+            "clubName": "Shakhtar Donetsk",
+            "value": 5500000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "22",
+            "date": "Jan 5, 2012",
+            "clubName": "Shakhtar Donetsk",
+            "value": 7000000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "23",
+            "date": "Jul 2, 2012",
+            "clubName": "Shakhtar Donetsk",
+            "value": 9000000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "23",
+            "date": "Aug 29, 2012",
+            "clubName": "Shakhtar Donetsk",
+            "value": 12000000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "23",
+            "date": "Nov 21, 2012",
+            "clubName": "Shakhtar Donetsk",
+            "value": 17000000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "24",
+            "date": "Jun 17, 2013",
+            "clubName": "Shakhtar Donetsk",
+            "value": 22000000.0,
+            "clubID": "660"
+        },
+        {
+            "age": "24",
+            "date": "Aug 27, 2013",
+            "clubName": "Borussia Dortmund",
+            "value": 26000000.0,
+            "clubID": "16"
+        },
+        {
+            "age": "25",
+            "date": "Jul 10, 2014",
+            "clubName": "Borussia Dortmund",
+            "value": 26000000.0,
+            "clubID": "16"
+        },
+        {
+            "age": "26",
+            "date": "Feb 4, 2015",
+            "clubName": "Borussia Dortmund",
+            "value": 21000000.0,
+            "clubID": "16"
+        },
+        {
+            "age": "26",
+            "date": "Jul 1, 2015",
+            "clubName": "Borussia Dortmund",
+            "value": 18000000.0,
+            "clubID": "16"
+        },
+        {
+            "age": "26",
+            "date": "Oct 16, 2015",
+            "clubName": "Borussia Dortmund",
+            "value": 22000000.0,
+            "clubID": "16"
+        },
+        {
+            "age": "27",
+            "date": "Feb 15, 2016",
+            "clubName": "Borussia Dortmund",
+            "value": 28000000.0,
+            "clubID": "16"
+        },
+        {
+            "age": "27",
+            "date": "Apr 13, 2016",
+            "clubName": "Borussia Dortmund",
+            "value": 30000000.0,
+            "clubID": "16"
+        },
+        {
+            "age": "27",
+            "date": "Aug 1, 2016",
+            "clubName": "Manchester United",
+            "value": 37000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "28",
+            "date": "Feb 20, 2017",
+            "clubName": "Manchester United",
+            "value": 37000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "28",
+            "date": "Jun 28, 2017",
+            "clubName": "Manchester United",
+            "value": 35000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "28",
+            "date": "Jan 2, 2018",
+            "clubName": "Manchester United",
+            "value": 35000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "29",
+            "date": "May 28, 2018",
+            "clubName": "Arsenal FC",
+            "value": 35000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "29",
+            "date": "Dec 19, 2018",
+            "clubName": "Arsenal FC",
+            "value": 30000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "30",
+            "date": "Jun 13, 2019",
+            "clubName": "Arsenal FC",
+            "value": 25000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "30",
+            "date": "Dec 12, 2019",
+            "clubName": "AS Roma",
+            "value": 25000000.0,
+            "clubID": "12"
+        },
+        {
+            "age": "31",
+            "date": "Apr 8, 2020",
+            "clubName": "AS Roma",
+            "value": 20000000.0,
+            "clubID": "12"
+        },
+        {
+            "age": "31",
+            "date": "Aug 25, 2020",
+            "clubName": "AS Roma",
+            "value": 20000000.0,
+            "clubID": "12"
+        },
+        {
+            "age": "31",
+            "date": "Dec 29, 2020",
+            "clubName": "AS Roma",
+            "value": 20000000.0,
+            "clubID": "12"
+        },
+        {
+            "age": "32",
+            "date": "Jun 3, 2021",
+            "clubName": "AS Roma",
+            "value": 15000000.0,
+            "clubID": "12"
+        },
+        {
+            "age": "32",
+            "date": "Dec 28, 2021",
+            "clubName": "AS Roma",
+            "value": 10000000.0,
+            "clubID": "12"
+        },
+        {
+            "age": "33",
+            "date": "Jun 7, 2022",
+            "clubName": "AS Roma",
+            "value": 8000000.0,
+            "clubID": "12"
+        },
+        {
+            "age": "33",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 6000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "34",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 6000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "34",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 6000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Davy Klaassen": [
+        {
+            "age": "18",
+            "date": "Nov 28, 2011",
+            "clubName": "Ajax Amsterdam U19",
+            "value": 100000.0,
+            "clubID": "41580"
+        },
+        {
+            "age": "18",
+            "date": "Jan 5, 2012",
+            "clubName": "Ajax Amsterdam U19",
+            "value": 750000.0,
+            "clubID": "41580"
+        },
+        {
+            "age": "20",
+            "date": "May 28, 2013",
+            "clubName": "Ajax Amsterdam",
+            "value": 750000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "20",
+            "date": "Feb 11, 2014",
+            "clubName": "Ajax Amsterdam",
+            "value": 3500000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "21",
+            "date": "Aug 11, 2014",
+            "clubName": "Ajax Amsterdam",
+            "value": 4500000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "21",
+            "date": "Feb 16, 2015",
+            "clubName": "Ajax Amsterdam",
+            "value": 7500000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "22",
+            "date": "Jul 1, 2015",
+            "clubName": "Ajax Amsterdam",
+            "value": 8500000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "22",
+            "date": "Feb 5, 2016",
+            "clubName": "Ajax Amsterdam",
+            "value": 10000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "23",
+            "date": "Apr 8, 2016",
+            "clubName": "Ajax Amsterdam",
+            "value": 15000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "23",
+            "date": "Jul 15, 2016",
+            "clubName": "Ajax Amsterdam",
+            "value": 15000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "23",
+            "date": "Jan 18, 2017",
+            "clubName": "Ajax Amsterdam",
+            "value": 15000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "24",
+            "date": "Jun 7, 2017",
+            "clubName": "Ajax Amsterdam",
+            "value": 18000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "24",
+            "date": "Jan 2, 2018",
+            "clubName": "Everton FC",
+            "value": 18000000.0,
+            "clubID": "29"
+        },
+        {
+            "age": "25",
+            "date": "May 28, 2018",
+            "clubName": "Everton FC",
+            "value": 15000000.0,
+            "clubID": "29"
+        },
+        {
+            "age": "25",
+            "date": "Oct 22, 2018",
+            "clubName": "SV Werder Bremen",
+            "value": 17000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "25",
+            "date": "Dec 18, 2018",
+            "clubName": "SV Werder Bremen",
+            "value": 20000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "26",
+            "date": "Jun 5, 2019",
+            "clubName": "SV Werder Bremen",
+            "value": 22000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "26",
+            "date": "Dec 17, 2019",
+            "clubName": "SV Werder Bremen",
+            "value": 22000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "27",
+            "date": "Mar 11, 2020",
+            "clubName": "SV Werder Bremen",
+            "value": 15000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "27",
+            "date": "Apr 8, 2020",
+            "clubName": "SV Werder Bremen",
+            "value": 12000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "27",
+            "date": "Oct 14, 2020",
+            "clubName": "Ajax Amsterdam",
+            "value": 12000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "28",
+            "date": "Mar 9, 2021",
+            "clubName": "Ajax Amsterdam",
+            "value": 14000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "28",
+            "date": "May 27, 2021",
+            "clubName": "Ajax Amsterdam",
+            "value": 17000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "28",
+            "date": "Jan 5, 2022",
+            "clubName": "Ajax Amsterdam",
+            "value": 15000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "29",
+            "date": "Jun 8, 2022",
+            "clubName": "Ajax Amsterdam",
+            "value": 14000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "29",
+            "date": "Sep 14, 2022",
+            "clubName": "Ajax Amsterdam",
+            "value": 12000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "29",
+            "date": "Nov 11, 2022",
+            "clubName": "Ajax Amsterdam",
+            "value": 12000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "30",
+            "date": "Jun 23, 2023",
+            "clubName": "Ajax Amsterdam",
+            "value": 10000000.0,
+            "clubID": "610"
+        },
+        {
+            "age": "30",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 5000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Stefano Sensi": [
+        {
+            "age": "17",
+            "date": "Oct 31, 2012",
+            "clubName": "Cesena Primavera",
+            "value": 75000.0,
+            "clubID": "20106"
+        },
+        {
+            "age": "17",
+            "date": "Apr 10, 2013",
+            "clubName": "Cesena Primavera",
+            "value": 100000.0,
+            "clubID": "20106"
+        },
+        {
+            "age": "17",
+            "date": "Apr 27, 2013",
+            "clubName": "Cesena Primavera",
+            "value": 200000.0,
+            "clubID": "20106"
+        },
+        {
+            "age": "18",
+            "date": "Mar 7, 2014",
+            "clubName": "San Marino",
+            "value": 400000.0,
+            "clubID": "10155"
+        },
+        {
+            "age": "18",
+            "date": "Jul 15, 2014",
+            "clubName": "San Marino",
+            "value": 450000.0,
+            "clubID": "10155"
+        },
+        {
+            "age": "19",
+            "date": "Jan 21, 2015",
+            "clubName": "San Marino",
+            "value": 450000.0,
+            "clubID": "10155"
+        },
+        {
+            "age": "19",
+            "date": "Jun 22, 2015",
+            "clubName": "San Marino",
+            "value": 600000.0,
+            "clubID": "10155"
+        },
+        {
+            "age": "20",
+            "date": "Dec 28, 2015",
+            "clubName": "AC Cesena",
+            "value": 3500000.0,
+            "clubID": "1429"
+        },
+        {
+            "age": "20",
+            "date": "Jun 13, 2016",
+            "clubName": "AC Cesena",
+            "value": 4000000.0,
+            "clubID": "1429"
+        },
+        {
+            "age": "21",
+            "date": "Jan 2, 2017",
+            "clubName": "US Sassuolo",
+            "value": 4000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "21",
+            "date": "Jun 8, 2017",
+            "clubName": "US Sassuolo",
+            "value": 4500000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "22",
+            "date": "Dec 29, 2017",
+            "clubName": "US Sassuolo",
+            "value": 4000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "22",
+            "date": "Jun 7, 2018",
+            "clubName": "US Sassuolo",
+            "value": 3500000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "23",
+            "date": "Dec 20, 2018",
+            "clubName": "US Sassuolo",
+            "value": 7000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "23",
+            "date": "Mar 1, 2019",
+            "clubName": "US Sassuolo",
+            "value": 12000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "23",
+            "date": "Jun 6, 2019",
+            "clubName": "US Sassuolo",
+            "value": 18000000.0,
+            "clubID": "6574"
+        },
+        {
+            "age": "24",
+            "date": "Oct 8, 2019",
+            "clubName": "Inter Milan",
+            "value": 30000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Dec 12, 2019",
+            "clubName": "Inter Milan",
+            "value": 30000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Apr 8, 2020",
+            "clubName": "Inter Milan",
+            "value": 24000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Aug 25, 2020",
+            "clubName": "Inter Milan",
+            "value": 20000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Dec 29, 2020",
+            "clubName": "Inter Milan",
+            "value": 18000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Mar 23, 2021",
+            "clubName": "Inter Milan",
+            "value": 13000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "May 25, 2021",
+            "clubName": "Inter Milan",
+            "value": 13000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Oct 14, 2021",
+            "clubName": "Inter Milan",
+            "value": 10000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 8000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Jun 7, 2022",
+            "clubName": "UC Sampdoria",
+            "value": 7000000.0,
+            "clubID": "1038"
+        },
+        {
+            "age": "27",
+            "date": "Nov 11, 2022",
+            "clubName": "AC Monza",
+            "value": 8000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "27",
+            "date": "Jun 15, 2023",
+            "clubName": "AC Monza",
+            "value": 8000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "28",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 4000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Denzel Dumfries": [
+        {
+            "age": "18",
+            "date": "Oct 30, 2014",
+            "clubName": "Sparta Rotterdam U21",
+            "value": 25000.0,
+            "clubID": "8621"
+        },
+        {
+            "age": "18",
+            "date": "Feb 21, 2015",
+            "clubName": "Sparta Rotterdam U21",
+            "value": 50000.0,
+            "clubID": "8621"
+        },
+        {
+            "age": "19",
+            "date": "Jul 1, 2015",
+            "clubName": "Sparta Rotterdam",
+            "value": 50000.0,
+            "clubID": "468"
+        },
+        {
+            "age": "19",
+            "date": "Feb 5, 2016",
+            "clubName": "Sparta Rotterdam",
+            "value": 150000.0,
+            "clubID": "468"
+        },
+        {
+            "age": "20",
+            "date": "Jul 15, 2016",
+            "clubName": "Sparta Rotterdam",
+            "value": 250000.0,
+            "clubID": "468"
+        },
+        {
+            "age": "20",
+            "date": "Oct 17, 2016",
+            "clubName": "Sparta Rotterdam",
+            "value": 600000.0,
+            "clubID": "468"
+        },
+        {
+            "age": "20",
+            "date": "Jan 18, 2017",
+            "clubName": "Sparta Rotterdam",
+            "value": 800000.0,
+            "clubID": "468"
+        },
+        {
+            "age": "21",
+            "date": "Jun 7, 2017",
+            "clubName": "Sparta Rotterdam",
+            "value": 1000000.0,
+            "clubID": "468"
+        },
+        {
+            "age": "21",
+            "date": "Oct 26, 2017",
+            "clubName": "SC Heerenveen",
+            "value": 1500000.0,
+            "clubID": "306"
+        },
+        {
+            "age": "21",
+            "date": "Jan 17, 2018",
+            "clubName": "SC Heerenveen",
+            "value": 2500000.0,
+            "clubID": "306"
+        },
+        {
+            "age": "22",
+            "date": "Jun 12, 2018",
+            "clubName": "SC Heerenveen",
+            "value": 4000000.0,
+            "clubID": "306"
+        },
+        {
+            "age": "22",
+            "date": "Oct 4, 2018",
+            "clubName": "PSV Eindhoven",
+            "value": 6000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "22",
+            "date": "Dec 28, 2018",
+            "clubName": "PSV Eindhoven",
+            "value": 12000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "23",
+            "date": "Jun 12, 2019",
+            "clubName": "PSV Eindhoven",
+            "value": 15000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "23",
+            "date": "Dec 18, 2019",
+            "clubName": "PSV Eindhoven",
+            "value": 13500000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "23",
+            "date": "Mar 12, 2020",
+            "clubName": "PSV Eindhoven",
+            "value": 15000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "23",
+            "date": "Apr 8, 2020",
+            "clubName": "PSV Eindhoven",
+            "value": 12000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "24",
+            "date": "Oct 14, 2020",
+            "clubName": "PSV Eindhoven",
+            "value": 15000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "24",
+            "date": "Jan 6, 2021",
+            "clubName": "PSV Eindhoven",
+            "value": 18000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "25",
+            "date": "May 27, 2021",
+            "clubName": "PSV Eindhoven",
+            "value": 16000000.0,
+            "clubID": "383"
+        },
+        {
+            "age": "25",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 16000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Mar 15, 2022",
+            "clubName": "Inter Milan",
+            "value": 20000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 25000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 28000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "27",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 28000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "27",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 30000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "27",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 27000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Tajon Buchanan": [
+        {
+            "age": "20",
+            "date": "Mar 20, 2019",
+            "clubName": "New England Revolution",
+            "value": 50000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "20",
+            "date": "May 27, 2019",
+            "clubName": "New England Revolution",
+            "value": 200000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "20",
+            "date": "Nov 30, 2019",
+            "clubName": "New England Revolution",
+            "value": 350000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "21",
+            "date": "Apr 8, 2020",
+            "clubName": "New England Revolution",
+            "value": 325000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "21",
+            "date": "Aug 26, 2020",
+            "clubName": "New England Revolution",
+            "value": 400000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "21",
+            "date": "Nov 13, 2020",
+            "clubName": "New England Revolution",
+            "value": 1000000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "21",
+            "date": "Dec 18, 2020",
+            "clubName": "New England Revolution",
+            "value": 2000000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "22",
+            "date": "Jul 9, 2021",
+            "clubName": "New England Revolution",
+            "value": 4000000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "22",
+            "date": "Aug 13, 2021",
+            "clubName": "New England Revolution",
+            "value": 7000000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "22",
+            "date": "Nov 9, 2021",
+            "clubName": "New England Revolution",
+            "value": 8500000.0,
+            "clubID": "626"
+        },
+        {
+            "age": "23",
+            "date": "Apr 12, 2022",
+            "clubName": "Club Brugge KV",
+            "value": 9500000.0,
+            "clubID": "2282"
+        },
+        {
+            "age": "23",
+            "date": "Nov 4, 2022",
+            "clubName": "Club Brugge KV",
+            "value": 12000000.0,
+            "clubID": "2282"
+        },
+        {
+            "age": "24",
+            "date": "Jun 9, 2023",
+            "clubName": "Club Brugge KV",
+            "value": 10000000.0,
+            "clubID": "2282"
+        },
+        {
+            "age": "24",
+            "date": "Dec 19, 2023",
+            "clubName": "Club Brugge KV",
+            "value": 8000000.0,
+            "clubID": "2282"
+        }
+    ],
+    "Juan Cuadrado": [
+        {
+            "age": "21",
+            "date": "Aug 6, 2009",
+            "clubName": "Udinese Calcio",
+            "value": 50000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "21",
+            "date": "Jan 27, 2010",
+            "clubName": "Udinese Calcio",
+            "value": 800000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "23",
+            "date": "Jun 21, 2011",
+            "clubName": "Udinese Calcio",
+            "value": 800000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "23",
+            "date": "Jan 10, 2012",
+            "clubName": "US Lecce",
+            "value": 1200000.0,
+            "clubID": "1005"
+        },
+        {
+            "age": "24",
+            "date": "Jun 7, 2012",
+            "clubName": "US Lecce",
+            "value": 4000000.0,
+            "clubID": "1005"
+        },
+        {
+            "age": "24",
+            "date": "Jul 29, 2012",
+            "clubName": "ACF Fiorentina",
+            "value": 6000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "24",
+            "date": "Jan 15, 2013",
+            "clubName": "ACF Fiorentina",
+            "value": 10000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "25",
+            "date": "Jun 19, 2013",
+            "clubName": "ACF Fiorentina",
+            "value": 15000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "25",
+            "date": "Sep 25, 2013",
+            "clubName": "ACF Fiorentina",
+            "value": 18000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "25",
+            "date": "Nov 11, 2013",
+            "clubName": "ACF Fiorentina",
+            "value": 24000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "25",
+            "date": "Jan 7, 2014",
+            "clubName": "ACF Fiorentina",
+            "value": 24000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "26",
+            "date": "Jul 11, 2014",
+            "clubName": "ACF Fiorentina",
+            "value": 32000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "26",
+            "date": "Jan 7, 2015",
+            "clubName": "ACF Fiorentina",
+            "value": 32000000.0,
+            "clubID": "430"
+        },
+        {
+            "age": "27",
+            "date": "Jul 1, 2015",
+            "clubName": "Chelsea FC",
+            "value": 30000000.0,
+            "clubID": "631"
+        },
+        {
+            "age": "27",
+            "date": "Jan 4, 2016",
+            "clubName": "Juventus FC",
+            "value": 25000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "28",
+            "date": "Aug 1, 2016",
+            "clubName": "Chelsea FC",
+            "value": 25000000.0,
+            "clubID": "631"
+        },
+        {
+            "age": "28",
+            "date": "Jan 2, 2017",
+            "clubName": "Juventus FC",
+            "value": 25000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "29",
+            "date": "Jun 8, 2017",
+            "clubName": "Juventus FC",
+            "value": 25000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "29",
+            "date": "Dec 29, 2017",
+            "clubName": "Juventus FC",
+            "value": 28000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "30",
+            "date": "Jun 7, 2018",
+            "clubName": "Juventus FC",
+            "value": 28000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "30",
+            "date": "Dec 20, 2018",
+            "clubName": "Juventus FC",
+            "value": 25000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "31",
+            "date": "Jun 6, 2019",
+            "clubName": "Juventus FC",
+            "value": 18000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "31",
+            "date": "Dec 12, 2019",
+            "clubName": "Juventus FC",
+            "value": 18000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "31",
+            "date": "Apr 8, 2020",
+            "clubName": "Juventus FC",
+            "value": 14500000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "32",
+            "date": "Aug 25, 2020",
+            "clubName": "Juventus FC",
+            "value": 15000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "32",
+            "date": "Dec 29, 2020",
+            "clubName": "Juventus FC",
+            "value": 18000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "33",
+            "date": "Jun 3, 2021",
+            "clubName": "Juventus FC",
+            "value": 16000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "33",
+            "date": "Dec 28, 2021",
+            "clubName": "Juventus FC",
+            "value": 10000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "34",
+            "date": "Jun 7, 2022",
+            "clubName": "Juventus FC",
+            "value": 8000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "34",
+            "date": "Nov 11, 2022",
+            "clubName": "Juventus FC",
+            "value": 5000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "35",
+            "date": "Jun 15, 2023",
+            "clubName": "Juventus FC",
+            "value": 4000000.0,
+            "clubID": "506"
+        },
+        {
+            "age": "35",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 2000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "35",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 1500000.0,
+            "clubID": "46"
+        }
+    ],
+    "Carlos Augusto": [
+        {
+            "age": "19",
+            "date": "May 23, 2018",
+            "clubName": "Sport Club Corinthians Paulista",
+            "value": 50000.0,
+            "clubID": "199"
+        },
+        {
+            "age": "20",
+            "date": "Feb 18, 2019",
+            "clubName": "Sport Club Corinthians Paulista",
+            "value": 100000.0,
+            "clubID": "199"
+        },
+        {
+            "age": "20",
+            "date": "May 28, 2019",
+            "clubName": "Sport Club Corinthians Paulista",
+            "value": 500000.0,
+            "clubID": "199"
+        },
+        {
+            "age": "20",
+            "date": "Aug 15, 2019",
+            "clubName": "Sport Club Corinthians Paulista",
+            "value": 900000.0,
+            "clubID": "199"
+        },
+        {
+            "age": "20",
+            "date": "Nov 27, 2019",
+            "clubName": "Sport Club Corinthians Paulista",
+            "value": 900000.0,
+            "clubID": "199"
+        },
+        {
+            "age": "21",
+            "date": "Apr 8, 2020",
+            "clubName": "Sport Club Corinthians Paulista",
+            "value": 800000.0,
+            "clubID": "199"
+        },
+        {
+            "age": "21",
+            "date": "Oct 29, 2020",
+            "clubName": "AC Monza",
+            "value": 3000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "22",
+            "date": "Feb 22, 2021",
+            "clubName": "AC Monza",
+            "value": 5000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "22",
+            "date": "Jun 24, 2021",
+            "clubName": "AC Monza",
+            "value": 5500000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "22",
+            "date": "Dec 29, 2021",
+            "clubName": "AC Monza",
+            "value": 4000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "23",
+            "date": "Jun 6, 2022",
+            "clubName": "AC Monza",
+            "value": 4500000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "23",
+            "date": "Nov 11, 2022",
+            "clubName": "AC Monza",
+            "value": 4500000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "24",
+            "date": "Mar 21, 2023",
+            "clubName": "AC Monza",
+            "value": 8000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "24",
+            "date": "Jun 15, 2023",
+            "clubName": "AC Monza",
+            "value": 15000000.0,
+            "clubID": "2919"
+        },
+        {
+            "age": "24",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 16000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 20000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Lautaro Mart\u00ednez": [
+        {
+            "age": "18",
+            "date": "Feb 6, 2016",
+            "clubName": "Racing Club",
+            "value": 100000.0,
+            "clubID": "1444"
+        },
+        {
+            "age": "18",
+            "date": "Aug 8, 2016",
+            "clubName": "Racing Club",
+            "value": 500000.0,
+            "clubID": "1444"
+        },
+        {
+            "age": "19",
+            "date": "Feb 13, 2017",
+            "clubName": "Racing Club",
+            "value": 2500000.0,
+            "clubID": "1444"
+        },
+        {
+            "age": "20",
+            "date": "Oct 9, 2017",
+            "clubName": "Racing Club",
+            "value": 10000000.0,
+            "clubID": "1444"
+        },
+        {
+            "age": "20",
+            "date": "May 8, 2018",
+            "clubName": "Racing Club",
+            "value": 25000000.0,
+            "clubID": "1444"
+        },
+        {
+            "age": "21",
+            "date": "Dec 20, 2018",
+            "clubName": "Inter Milan",
+            "value": 25000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "21",
+            "date": "Jun 6, 2019",
+            "clubName": "Inter Milan",
+            "value": 30000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "22",
+            "date": "Oct 8, 2019",
+            "clubName": "Inter Milan",
+            "value": 40000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "22",
+            "date": "Dec 12, 2019",
+            "clubName": "Inter Milan",
+            "value": 80000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "22",
+            "date": "Apr 8, 2020",
+            "clubName": "Inter Milan",
+            "value": 64000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Aug 25, 2020",
+            "clubName": "Inter Milan",
+            "value": 70000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Dec 29, 2020",
+            "clubName": "Inter Milan",
+            "value": 70000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "23",
+            "date": "Jun 3, 2021",
+            "clubName": "Inter Milan",
+            "value": 80000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 80000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Mar 15, 2022",
+            "clubName": "Inter Milan",
+            "value": 70000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "24",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 75000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Nov 11, 2022",
+            "clubName": "Inter Milan",
+            "value": 75000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Mar 21, 2023",
+            "clubName": "Inter Milan",
+            "value": 80000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "25",
+            "date": "Jun 15, 2023",
+            "clubName": "Inter Milan",
+            "value": 85000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Oct 11, 2023",
+            "clubName": "Inter Milan",
+            "value": 100000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 110000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Marcus Thuram": [
+        {
+            "age": "18",
+            "date": "Sep 6, 2015",
+            "clubName": "FC Sochaux-Montb\u00e9liard",
+            "value": 300000.0,
+            "clubID": "750"
+        },
+        {
+            "age": "18",
+            "date": "Feb 4, 2016",
+            "clubName": "FC Sochaux-Montb\u00e9liard",
+            "value": 300000.0,
+            "clubID": "750"
+        },
+        {
+            "age": "18",
+            "date": "Jul 13, 2016",
+            "clubName": "FC Sochaux-Montb\u00e9liard",
+            "value": 300000.0,
+            "clubID": "750"
+        },
+        {
+            "age": "19",
+            "date": "Mar 20, 2017",
+            "clubName": "FC Sochaux-Montb\u00e9liard",
+            "value": 300000.0,
+            "clubID": "750"
+        },
+        {
+            "age": "19",
+            "date": "Jun 15, 2017",
+            "clubName": "FC Sochaux-Montb\u00e9liard",
+            "value": 600000.0,
+            "clubID": "750"
+        },
+        {
+            "age": "20",
+            "date": "Jan 24, 2018",
+            "clubName": "EA Guingamp",
+            "value": 2000000.0,
+            "clubID": "855"
+        },
+        {
+            "age": "20",
+            "date": "Jun 4, 2018",
+            "clubName": "EA Guingamp",
+            "value": 2000000.0,
+            "clubID": "855"
+        },
+        {
+            "age": "21",
+            "date": "Oct 24, 2018",
+            "clubName": "EA Guingamp",
+            "value": 3000000.0,
+            "clubID": "855"
+        },
+        {
+            "age": "21",
+            "date": "Dec 17, 2018",
+            "clubName": "EA Guingamp",
+            "value": 4500000.0,
+            "clubID": "855"
+        },
+        {
+            "age": "21",
+            "date": "Mar 7, 2019",
+            "clubName": "EA Guingamp",
+            "value": 9000000.0,
+            "clubID": "855"
+        },
+        {
+            "age": "21",
+            "date": "Jun 3, 2019",
+            "clubName": "EA Guingamp",
+            "value": 9000000.0,
+            "clubID": "855"
+        },
+        {
+            "age": "22",
+            "date": "Oct 2, 2019",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 12000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "22",
+            "date": "Dec 17, 2019",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 28000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "22",
+            "date": "Apr 8, 2020",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 22500000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "22",
+            "date": "Jul 8, 2020",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 32000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "23",
+            "date": "Nov 26, 2020",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 40000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "23",
+            "date": "Feb 10, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 40000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "23",
+            "date": "Mar 31, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 35000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "23",
+            "date": "Jun 1, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 35000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "24",
+            "date": "Oct 7, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 28000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "24",
+            "date": "Dec 22, 2021",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 28000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "24",
+            "date": "Mar 24, 2022",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 20000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "24",
+            "date": "Jun 9, 2022",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 20000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "25",
+            "date": "Nov 9, 2022",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 30000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "25",
+            "date": "Dec 23, 2022",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 32000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "25",
+            "date": "Jun 22, 2023",
+            "clubName": "Borussia M\u00f6nchengladbach",
+            "value": 32000000.0,
+            "clubID": "18"
+        },
+        {
+            "age": "26",
+            "date": "Oct 11, 2023",
+            "clubName": "Inter Milan",
+            "value": 40000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 55000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "26",
+            "date": "Mar 12, 2024",
+            "clubName": "Inter Milan",
+            "value": 60000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Marko Arnautovic": [
+        {
+            "age": "17",
+            "date": "Sep 17, 2006",
+            "clubName": "FC Twente Enschede U19",
+            "value": 100000.0,
+            "clubID": "6200"
+        },
+        {
+            "age": "18",
+            "date": "Sep 20, 2007",
+            "clubName": "Twente Enschede FC",
+            "value": 400000.0,
+            "clubID": "317"
+        },
+        {
+            "age": "18",
+            "date": "Jan 7, 2008",
+            "clubName": "Twente Enschede FC",
+            "value": 500000.0,
+            "clubID": "317"
+        },
+        {
+            "age": "19",
+            "date": "Jul 29, 2008",
+            "clubName": "Twente Enschede FC",
+            "value": 1000000.0,
+            "clubID": "317"
+        },
+        {
+            "age": "19",
+            "date": "Dec 2, 2008",
+            "clubName": "Twente Enschede FC",
+            "value": 1500000.0,
+            "clubID": "317"
+        },
+        {
+            "age": "19",
+            "date": "Jan 8, 2009",
+            "clubName": "Twente Enschede FC",
+            "value": 2500000.0,
+            "clubID": "317"
+        },
+        {
+            "age": "19",
+            "date": "Apr 13, 2009",
+            "clubName": "Twente Enschede FC",
+            "value": 4000000.0,
+            "clubID": "317"
+        },
+        {
+            "age": "20",
+            "date": "May 22, 2009",
+            "clubName": "Twente Enschede FC",
+            "value": 5250000.0,
+            "clubID": "317"
+        },
+        {
+            "age": "20",
+            "date": "Aug 6, 2009",
+            "clubName": "FC Internazionale",
+            "value": 9000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "20",
+            "date": "Jan 27, 2010",
+            "clubName": "FC Internazionale",
+            "value": 6500000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "21",
+            "date": "Jul 16, 2010",
+            "clubName": "SV Werder Bremen",
+            "value": 8500000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "21",
+            "date": "Jan 12, 2011",
+            "clubName": "SV Werder Bremen",
+            "value": 8500000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "21",
+            "date": "Mar 2, 2011",
+            "clubName": "SV Werder Bremen",
+            "value": 7500000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "22",
+            "date": "Jun 29, 2011",
+            "clubName": "SV Werder Bremen",
+            "value": 6500000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "22",
+            "date": "Jan 23, 2012",
+            "clubName": "SV Werder Bremen",
+            "value": 6500000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "23",
+            "date": "Jun 29, 2012",
+            "clubName": "SV Werder Bremen",
+            "value": 6500000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "23",
+            "date": "Jan 13, 2013",
+            "clubName": "SV Werder Bremen",
+            "value": 8000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "24",
+            "date": "Jun 30, 2013",
+            "clubName": "SV Werder Bremen",
+            "value": 7000000.0,
+            "clubID": "86"
+        },
+        {
+            "age": "24",
+            "date": "Sep 18, 2013",
+            "clubName": "Stoke City",
+            "value": 4500000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "24",
+            "date": "Jan 15, 2014",
+            "clubName": "Stoke City",
+            "value": 4500000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "25",
+            "date": "Aug 12, 2014",
+            "clubName": "Stoke City",
+            "value": 6000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "25",
+            "date": "Feb 12, 2015",
+            "clubName": "Stoke City",
+            "value": 5000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "26",
+            "date": "Jul 1, 2015",
+            "clubName": "Stoke City",
+            "value": 5000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "26",
+            "date": "Feb 9, 2016",
+            "clubName": "Stoke City",
+            "value": 8000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "27",
+            "date": "Jun 1, 2016",
+            "clubName": "Stoke City",
+            "value": 10000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "27",
+            "date": "Aug 1, 2016",
+            "clubName": "Stoke City",
+            "value": 12000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "27",
+            "date": "Feb 20, 2017",
+            "clubName": "Stoke City",
+            "value": 12000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "28",
+            "date": "Jun 28, 2017",
+            "clubName": "Stoke City",
+            "value": 15000000.0,
+            "clubID": "512"
+        },
+        {
+            "age": "28",
+            "date": "Jan 2, 2018",
+            "clubName": "West Ham United",
+            "value": 18000000.0,
+            "clubID": "379"
+        },
+        {
+            "age": "29",
+            "date": "May 28, 2018",
+            "clubName": "West Ham United",
+            "value": 25000000.0,
+            "clubID": "379"
+        },
+        {
+            "age": "29",
+            "date": "Dec 19, 2018",
+            "clubName": "West Ham United",
+            "value": 35000000.0,
+            "clubID": "379"
+        },
+        {
+            "age": "30",
+            "date": "Jun 13, 2019",
+            "clubName": "West Ham United",
+            "value": 35000000.0,
+            "clubID": "379"
+        },
+        {
+            "age": "30",
+            "date": "Sep 5, 2019",
+            "clubName": "Shanghai SIPG",
+            "value": 32000000.0,
+            "clubID": "27190"
+        },
+        {
+            "age": "30",
+            "date": "Dec 27, 2019",
+            "clubName": "Shanghai SIPG",
+            "value": 20000000.0,
+            "clubID": "27190"
+        },
+        {
+            "age": "30",
+            "date": "Apr 8, 2020",
+            "clubName": "Shanghai SIPG",
+            "value": 16000000.0,
+            "clubID": "27190"
+        },
+        {
+            "age": "31",
+            "date": "Dec 26, 2020",
+            "clubName": "Shanghai Port",
+            "value": 10000000.0,
+            "clubID": "27190"
+        },
+        {
+            "age": "32",
+            "date": "May 27, 2021",
+            "clubName": "Shanghai Port",
+            "value": 10000000.0,
+            "clubID": "27190"
+        },
+        {
+            "age": "32",
+            "date": "Oct 14, 2021",
+            "clubName": "Bologna FC 1909",
+            "value": 7500000.0,
+            "clubID": "1025"
+        },
+        {
+            "age": "32",
+            "date": "Dec 28, 2021",
+            "clubName": "Bologna FC 1909",
+            "value": 6000000.0,
+            "clubID": "1025"
+        },
+        {
+            "age": "33",
+            "date": "Jun 7, 2022",
+            "clubName": "Bologna FC 1909",
+            "value": 6000000.0,
+            "clubID": "1025"
+        },
+        {
+            "age": "33",
+            "date": "Sep 27, 2022",
+            "clubName": "Bologna FC 1909",
+            "value": 9000000.0,
+            "clubID": "1025"
+        },
+        {
+            "age": "33",
+            "date": "Nov 11, 2022",
+            "clubName": "Bologna FC 1909",
+            "value": 9000000.0,
+            "clubID": "1025"
+        },
+        {
+            "age": "33",
+            "date": "Mar 21, 2023",
+            "clubName": "Bologna FC 1909",
+            "value": 7000000.0,
+            "clubID": "1025"
+        },
+        {
+            "age": "34",
+            "date": "Jun 15, 2023",
+            "clubName": "Bologna FC 1909",
+            "value": 5000000.0,
+            "clubID": "1025"
+        },
+        {
+            "age": "34",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 5000000.0,
+            "clubID": "46"
+        }
+    ],
+    "Alexis S\u00e1nchez": [
+        {
+            "age": "18",
+            "date": "Dec 29, 2006",
+            "clubName": "CSD Colo-Colo",
+            "value": 50000.0,
+            "clubID": "2433"
+        },
+        {
+            "age": "18",
+            "date": "Sep 24, 2007",
+            "clubName": "CA River Plate",
+            "value": 2750000.0,
+            "clubID": "15108"
+        },
+        {
+            "age": "19",
+            "date": "Mar 31, 2008",
+            "clubName": "CA River Plate",
+            "value": 3400000.0,
+            "clubID": "15108"
+        },
+        {
+            "age": "19",
+            "date": "Jul 4, 2008",
+            "clubName": "Udinese Calcio",
+            "value": 3800000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "20",
+            "date": "Aug 6, 2009",
+            "clubName": "Udinese Calcio",
+            "value": 6500000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "21",
+            "date": "Jan 27, 2010",
+            "clubName": "Udinese Calcio",
+            "value": 7000000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "21",
+            "date": "May 9, 2010",
+            "clubName": "Udinese Calcio",
+            "value": 8000000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "21",
+            "date": "Aug 1, 2010",
+            "clubName": "Udinese Calcio",
+            "value": 9500000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "22",
+            "date": "Jan 10, 2011",
+            "clubName": "Udinese Calcio",
+            "value": 13500000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "22",
+            "date": "Mar 18, 2011",
+            "clubName": "Udinese Calcio",
+            "value": 18500000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "22",
+            "date": "Jun 21, 2011",
+            "clubName": "Udinese Calcio",
+            "value": 25000000.0,
+            "clubID": "410"
+        },
+        {
+            "age": "22",
+            "date": "Jul 29, 2011",
+            "clubName": "FC Barcelona",
+            "value": 26000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "23",
+            "date": "Feb 3, 2012",
+            "clubName": "FC Barcelona",
+            "value": 28000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "23",
+            "date": "Apr 14, 2012",
+            "clubName": "FC Barcelona",
+            "value": 30000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "23",
+            "date": "Aug 7, 2012",
+            "clubName": "FC Barcelona",
+            "value": 38000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "24",
+            "date": "Jan 10, 2013",
+            "clubName": "FC Barcelona",
+            "value": 28000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "24",
+            "date": "Mar 7, 2013",
+            "clubName": "FC Barcelona",
+            "value": 25000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "24",
+            "date": "Jun 12, 2013",
+            "clubName": "FC Barcelona",
+            "value": 26000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "25",
+            "date": "Jan 23, 2014",
+            "clubName": "FC Barcelona",
+            "value": 30000000.0,
+            "clubID": "131"
+        },
+        {
+            "age": "25",
+            "date": "Aug 12, 2014",
+            "clubName": "Arsenal FC",
+            "value": 38000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "26",
+            "date": "Feb 12, 2015",
+            "clubName": "Arsenal FC",
+            "value": 45000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "26",
+            "date": "Jul 1, 2015",
+            "clubName": "Arsenal FC",
+            "value": 55000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "27",
+            "date": "Feb 9, 2016",
+            "clubName": "Arsenal FC",
+            "value": 55000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "27",
+            "date": "Aug 1, 2016",
+            "clubName": "Arsenal FC",
+            "value": 55000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "28",
+            "date": "Feb 20, 2017",
+            "clubName": "Arsenal FC",
+            "value": 65000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "28",
+            "date": "Jun 28, 2017",
+            "clubName": "Arsenal FC",
+            "value": 65000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "29",
+            "date": "Jan 2, 2018",
+            "clubName": "Arsenal FC",
+            "value": 70000000.0,
+            "clubID": "11"
+        },
+        {
+            "age": "29",
+            "date": "May 28, 2018",
+            "clubName": "Manchester United",
+            "value": 70000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "29",
+            "date": "Oct 17, 2018",
+            "clubName": "Manchester United",
+            "value": 55000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "30",
+            "date": "Dec 19, 2018",
+            "clubName": "Manchester United",
+            "value": 45000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "30",
+            "date": "Jun 13, 2019",
+            "clubName": "Manchester United",
+            "value": 35000000.0,
+            "clubID": "985"
+        },
+        {
+            "age": "30",
+            "date": "Dec 12, 2019",
+            "clubName": "Inter Milan",
+            "value": 25000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "31",
+            "date": "Mar 3, 2020",
+            "clubName": "Inter Milan",
+            "value": 20000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "31",
+            "date": "Apr 8, 2020",
+            "clubName": "Inter Milan",
+            "value": 16000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "31",
+            "date": "Aug 25, 2020",
+            "clubName": "Inter Milan",
+            "value": 16000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "32",
+            "date": "Dec 29, 2020",
+            "clubName": "Inter Milan",
+            "value": 10000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "32",
+            "date": "Jun 3, 2021",
+            "clubName": "Inter Milan",
+            "value": 7500000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "32",
+            "date": "Oct 14, 2021",
+            "clubName": "Inter Milan",
+            "value": 5000000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "33",
+            "date": "Dec 28, 2021",
+            "clubName": "Inter Milan",
+            "value": 3500000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "33",
+            "date": "Jun 7, 2022",
+            "clubName": "Inter Milan",
+            "value": 3500000.0,
+            "clubID": "46"
+        },
+        {
+            "age": "33",
+            "date": "Nov 2, 2022",
+            "clubName": "Olympique Marseille",
+            "value": 4500000.0,
+            "clubID": "244"
+        },
+        {
+            "age": "34",
+            "date": "Jun 27, 2023",
+            "clubName": "Olympique Marseille",
+            "value": 4000000.0,
+            "clubID": "244"
+        },
+        {
+            "age": "35",
+            "date": "Dec 20, 2023",
+            "clubName": "Inter Milan",
+            "value": 2500000.0,
+            "clubID": "46"
+        }
+    ]
+}
